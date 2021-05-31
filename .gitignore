@@ -1,0 +1,15 @@
+# Build folders
+.gradle
+/build/
+
+# Class files
+*.class
+
+# Package Files
+*.jar
+
+# IntelliJ
+.idea/
+/out/
+
+*.DS_Store
